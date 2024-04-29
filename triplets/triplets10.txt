@@ -1,0 +1,9 @@
+[
+    {"sujeto": "La II Guerra Mundial", "predicado": "dio lugar a", "objeto": "momentos de creatividad y exploración artística"},
+    {"sujeto": "La censura", "predicado": "se instauró", "objeto": "en el bloque soviético y EEUU durante la Guerra Fría"},
+    {"sujeto": "Artistas", "predicado": "huían de", "objeto": "la realidad"},
+    {"sujeto": "Movimientos vanguardistas", "predicado": "surgieron", "objeto": "como el expresionismo, dadaísmo, futurismo, arte abstracto y cubismo"},
+    {"sujeto": "El arte pop", "predicado": "nació", "objeto": "con las sociedades del bienestar, consumismo y medios de comunicación de masas"},
+    {"sujeto": "Tom Lea", "predicado": "ejerció de", "objeto": "corresponsal de guerra"},
+    {"sujeto": "Tom Lea", "predicado": "plasmó", "objeto": "los horrores de la guerra de forma figurativa"}
+]

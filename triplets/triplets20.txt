@@ -1,0 +1,10 @@
+[
+    {"sujeto": "Alemania", "predicado": "necesita", "objeto": "más 'Lebensraum' (espacio vital) para sobrevivir"},
+    {"sujeto": "Adolf Hitler", "predicado": "decide", "objeto": "llevar a cabo la expansión del pueblo germano"},
+    {"sujeto": "Alemania", "predicado": "ataca por sorpresa", "objeto": "Polonia"},
+    {"sujeto": "El ataque de Alemania", "predicado": "ocurre", "objeto": "el 1 de septiembre de 1939"},
+    {"sujeto": "La Wehrmacht", "predicado": "pone en práctica", "objeto": "la guerra relámpago ('Blitzkrieg')"},
+    {"sujeto": "Las fuerzas polacas", "predicado": "se muestran incapaces de reaccionar", "objeto": "ante la contundencia del ataque de Alemania"},
+    {"sujeto": "Francia y Reino Unido", "predicado": "entran", "objeto": "en el conflicto"},
+    {"sujeto": "La entrada de Francia y Reino Unido en el conflicto", "predicado": "marca", "objeto": "el comienzo de la Segunda Guerra Mundial"}
+]

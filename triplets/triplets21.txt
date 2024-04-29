@@ -1,0 +1,13 @@
+[
+    {"sujeto": "Pere Aragonès", "predicado": "preside", "objeto": "reunión del Gobierno catalán"},
+    {"sujeto": "Pymes de la construcción", "predicado": "enfrentan", "objeto": "escasez de mano de obra"},
+    {"sujeto": "Sector de la construcción", "predicado": "afectado por", "objeto": "aumento de costes"},
+    {"sujeto": "Sector de la construcción", "predicado": "afectado por", "objeto": "menor demanda"},
+    {"sujeto": "Sector de la construcción", "predicado": "afectado por", "objeto": "falta de personal cualificado"},
+    {"sujeto": "Sector de la construcción", "predicado": "afectado por", "objeto": "oferta estancada"},
+    {"sujeto": "Joan Manuel Serrat", "predicado": "celebró", "objeto": "concierto de despedida en Barcelona"},
+    {"sujeto": "Joan Manuel Serrat", "predicado": "ganó", "objeto": "Premio Princesa de Asturias"},
+    {"sujeto": "Premios Laureus", "predicado": "reconocen", "objeto": "grandeza del fútbol femenino español"},
+    {"sujeto": "Premios Laureus", "predicado": "se celebraron", "objeto": "en Madrid"},
+    {"sujeto": "Nelson Mandela", "predicado": "afirmó", "objeto": "El deporte tiene el poder de cambiar el mundo"}
+]

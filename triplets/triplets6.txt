@@ -1,0 +1,10 @@
+[
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "ha inspirado", "objeto": "al Séptimo Arte"},
+    {"sujeto": "La Cruz de Hierro", "predicado": "es considerada", "objeto": "una obra maestra"},
+    {"sujeto": "La Cruz de Hierro", "predicado": "fue dirigida por", "objeto": "Sam Peckinpah"},
+    {"sujeto": "La Cruz de Hierro", "predicado": "representa", "objeto": "el infierno del Este en 1943"},
+    {"sujeto": "Rolf Steiner", "predicado": "es interpretado por", "objeto": "James Coburn"},
+    {"sujeto": "Stransky", "predicado": "es interpretado por", "objeto": "Maximilian Schell"},
+    {"sujeto": "La Cruz de Hierro", "predicado": "fue lanzada en", "objeto": "1977"},
+    {"sujeto": "La Cruz de Hierro", "predicado": "fue producida en", "objeto": "EEUU"}
+]

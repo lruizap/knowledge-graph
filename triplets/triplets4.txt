@@ -1,0 +1,14 @@
+[
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "fue el final de", "objeto": "los acorazados"},
+    {"sujeto": "Acorazado de bolsillo", "predicado": "fue diseñado por", "objeto": "la Kriegsmarine"},
+    {"sujeto": "Admiral Graf Spee", "predicado": "fue apoyado por", "objeto": "Altmark"},
+    {"sujeto": "Admiral Graf Spee", "predicado": "hundió", "objeto": "varios transportes aliados"},
+    {"sujeto": "Gobierno de Uruguay", "predicado": "dio plazo de", "objeto": "72 horas al Admiral Graf Spee para marcharse"},
+    {"sujeto": "Hans Langsdorff", "predicado": "ordenó el hundimiento de", "objeto": "Admiral Graf Spee"},
+    {"sujeto": "Hans Langsdorff", "predicado": "se suicidó", "objeto": "envuelto en la bandera alemana"},
+    {"sujeto": "Acorazado Yamato", "predicado": "fue atacado por", "objeto": "casi 400 aviones"},
+    {"sujeto": "Acorazado Yamato", "predicado": "se hundió en", "objeto": "las aguas del Pacífico"},
+    {"sujeto": "Submarino U-VII", "predicado": "fue capaz de", "objeto": "sumergirse a 250 metros"},
+    {"sujeto": "Manadas de lobos", "predicado": "fueron decisivas en", "objeto": "la Batalla del Atlántico"},
+    {"sujeto": "Los portaviones", "predicado": "fuero coronados como", "objeto": "rey del mar en la Segunda Guerra Mundial"}
+]

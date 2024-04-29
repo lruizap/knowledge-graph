@@ -1,0 +1,16 @@
+[
+    {"sujeto": "Adolf Hitler", "predicado": "dio lugar a", "objeto": "Holocausto"},
+    {"sujeto": "Leyes de Nüremberg", "predicado": "definieron", "objeto": "judíos por sangre"},
+    {"sujeto": "Leyes de Nüremberg", "predicado": "ordenaron", "objeto": "separación total de los 'arios' y los 'no arios'"},
+    {"sujeto": "Hitler", "predicado": "arrebató", "objeto": "dignidad a los judíos"},
+    {"sujeto": "nazis", "predicado": "crearon", "objeto": "guetos"},
+    {"sujeto": "'Solución Final'", "predicado": "acabó con", "objeto": "guetos y los judíos en ellos"},
+    {"sujeto": "Aktion Reinhard", "predicado": "fue creada para", "objeto": "llevar a cabo la 'Solución Final'"},
+    {"sujeto": "campos de Belzec, Sobibor y Treblinka", "predicado": "estaban dedicados a", "objeto": "exterminio mediante 'Aktion Reinhard'"},
+    {"sujeto": "Auschwitz", "predicado": "utilizó", "objeto": "gas Zyklon B"},
+    {"sujeto": "Auschwitz", "predicado": "tenía", "objeto": "Pared Negra"},
+    {"sujeto": "Auschwitz", "predicado": "tenía", "objeto": "hornos crematorios"},
+    {"sujeto": "más de un millón de judíos", "predicado": "fueron gaseados", "objeto": "en Auschwitz-Birkenau hasta noviembre de 1944"},
+    {"sujeto": "soldados rusos", "predicado": "encontraron", "objeto": "cientos de miles de trajes de hombre, miles de vestidos de mujeres y más de seis toneladas de cabellos humanos en Auschwitz"},
+    {"sujeto": "Holocausto", "predicado": "resultó en", "objeto": "asesinato de seis millones de judíos y más de cinco millones de gitanos, discapacitados y homosexuales"}
+]

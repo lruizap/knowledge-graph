@@ -1,0 +1,16 @@
+[
+    {"sujeto": "Unidad Editorial Información General, S.L.U.", "predicado": "es responsable de", "objeto": "datos personales en EL MUNDO"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "es matriz de", "objeto": "Grupo Unidad Editorial"},
+    {"sujeto": "Unidad Editorial Información General, S.L.U.", "predicado": "gestiona", "objeto": "registro de usuarios en EL MUNDO"},
+    {"sujeto": "Unidad Editorial Información General, S.L.U.", "predicado": "realiza", "objeto": "acciones comerciales personalizadas"},
+    {"sujeto": "Unidad Editorial Información General, S.L.U.", "predicado": "envía", "objeto": "comunicaciones comerciales"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "gestiona", "objeto": "registro en múltiples Universos"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "permite", "objeto": "uso de registro único"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "gestiona", "objeto": "servicios de El Club"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "presta", "objeto": "servicios Premium"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "usa", "objeto": "cookies para personalizar contenidos"},
+    {"sujeto": "Unidad Editorial, S.A.", "predicado": "analiza", "objeto": "necesidades del usuario para perfil comercial"},
+    {"sujeto": "Datos Personales", "predicado": "serán conservados mientras", "objeto": "existir interés mutuo en Registro Único"},
+    {"sujeto": "Datos Personales", "predicado": "serán comunicados a", "objeto": "empresas de TI y agencias de marketing"},
+    {"sujeto": "Usuarios", "predicado": "pueden ejercitar derechos", "objeto": "de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad"}
+]

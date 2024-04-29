@@ -1,0 +1,17 @@
+[
+    {"sujeto": "Aviones", "predicado": "adquirieron protagonismo como armas", "objeto": "en la Segunda Guerra Mundial"},
+    {"sujeto": "Messerschmitt Bf109", "predicado": "contabilizó", "objeto": "cerca de una decena de variantes"},
+    {"sujeto": "Messerschmitt Bf109", "predicado": "despegó su primer prototipo", "objeto": "en mayo de 1935"},
+    {"sujeto": "Messerschmitt Bf109", "predicado": "fue utilizado", "objeto": "en la Batalla de Inglaterra"},
+    {"sujeto": "Hawker Hurricane", "predicado": "responsable de", "objeto": "80% de las bajas enemigas en la Batalla de Inglaterra"},
+    {"sujeto": "JU87 Stuka", "predicado": "participó", "objeto": "en la Guerra Civil española"},
+    {"sujeto": "B17 'Fortaleza Volante'", "predicado": "fue usado por", "objeto": "la Octava Fuerza Aérea de Estados Unidos"},
+    {"sujeto": "P51 Mustang", "predicado": "entró en servicio", "objeto": "a mediados de la guerra"},
+    {"sujeto": "IL2 Sturmovik", "predicado": "fue conocido como", "objeto": "'Tanque Volador'"},
+    {"sujeto": "Mitsubishi A6M Zero", "predicado": "fue usado", "objeto": "hasta 1942"},
+    {"sujeto": "Messerschmitt Me262", "predicado": "combatió contra", "objeto": "bombarderos de los Aliados y sus protectores P51 Mustang"},
+    {"sujeto": "V2", "predicado": "fue diseñado por", "objeto": "Werner Von Braun"},
+    {"sujeto": "V2", "predicado": "causó", "objeto": "unas 7.000 muertes"},
+    {"sujeto": "Napalm", "predicado": "fue elaborado por", "objeto": "un equipo de la universidad de Harvard liderado por Louis Fieser"},
+    {"sujeto": "Napalm", "predicado": "se utilizó en", "objeto": "bombardeos como el de Dresde"}
+]

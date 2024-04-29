@@ -1,0 +1,21 @@
+[
+    {"sujeto": "Adolf Hitler", "predicado": "ascendió al poder", "objeto": "1933"},
+    {"sujeto": "Adolf Hitler", "predicado": "se suicidó", "objeto": "30 de abril de 1945"},
+    {"sujeto": "Adolf Hitler", "predicado": "anexionó", "objeto": "Austria"},
+    {"sujeto": "Adolf Hitler", "predicado": "invadió", "objeto": "los Sudetes"},
+    {"sujeto": "Adolf Hitler", "predicado": "firmó", "objeto": "pacto Ribbentrop-Molotov con la Unión Soviética"},
+    {"sujeto": "Josef Stalin", "predicado": "intentó aliarse con", "objeto": "franceses y británicos contra la Alemania nazi"},
+    {"sujeto": "Josef Stalin", "predicado": "se repartió", "objeto": "los países del Este con Hitler"},
+    {"sujeto": "Josef Stalin", "predicado": "contraatacó", "objeto": "tras ser traicionado por Hitler en la operación Barbarroja"},
+    {"sujeto": "Benito Mussolini", "predicado": "se apartó de la no beligerancia", "objeto": "1940"},
+    {"sujeto": "Benito Mussolini", "predicado": "fue ejecutado", "objeto": "1945"},
+    {"sujeto": "Neville Chamberlain", "predicado": "promovió", "objeto": "la estrategia del 'appeasement'"},
+    {"sujeto": "Édouard Daladier", "predicado": "hizo frente a", "objeto": "Alemania"},
+    {"sujeto": "Édouard Daladier", "predicado": "huyó a", "objeto": "Marruecos"},
+    {"sujeto": "Winston Churchill", "predicado": "incrementaba", "objeto": "el poder militar británico"},
+    {"sujeto": "Philippe Pétain", "predicado": "firmó", "objeto": "armisticio que cedía el tercio noroccidental de Francia a los nazis"},
+    {"sujeto": "Charles de Gaulle", "predicado": "promovió", "objeto": "una nueva Francia libre"},
+    {"sujeto": "Franklin D. Roosevelt", "predicado": "supervisó", "objeto": "avances militares frente a las potencias del Eje"},
+    {"sujeto": "Harry S. Truman", "predicado": "adoptó", "objeto": "decisión de lanzar bombas atómicas sobre Hiroshima y Nagasaki"},
+    {"sujeto": "Hiro Hito", "predicado": "decidió", "objeto": "entrar en guerra con Occidente"}
+]

@@ -1,0 +1,13 @@
+[
+    {"sujeto": "La Conferencia de Yalta", "predicado": "sentenció", "objeto": "el desarme y la partición de Alemania"},
+    {"sujeto": "La operación Gomorra", "predicado": "bloqueó", "objeto": "las defensas alemanas"},
+    {"sujeto": "La operación Gomorra", "predicado": "lanzó", "objeto": "2.396 toneladas de bombas sobre Hamburgo"},
+    {"sujeto": "La Octava Fuerza Aérea de EEUU", "predicado": "lanzó", "objeto": "127 bombarderos contra el astillero de submarinos Blohm&Voss y la fábrica de motores de aviación Klockner"},
+    {"sujeto": "La RAF", "predicado": "lanzó", "objeto": "8.621 toneladas de bombas sobre Hamburgo en 10 días"},
+    {"sujeto": "La RAF", "predicado": "devastó", "objeto": "22 kilómetros cuadrados de terreno en Hamburgo"},
+    {"sujeto": "La RAF", "predicado": "mató", "objeto": "40.000 personas en Hamburgo"},
+    {"sujeto": "El bombardeo en Dresde", "predicado": "cayó", "objeto": "una gran cruz de hierro desde una altura de 90 metros"},
+    {"sujeto": "El bombardeo en Dresde", "predicado": "causó", "objeto": "el derrumbe de la cúpula de la Frauenkirche"},
+    {"sujeto": "La reconstrucción de la Frauenkirche", "predicado": "terminó", "objeto": "en 2005"},
+    {"sujeto": "Supervivientes del bombardeo sobre Dresde", "predicado": "quemaron", "objeto": "alrededor de dos decenas de miles de cuerpos"}
+]

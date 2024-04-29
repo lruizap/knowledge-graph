@@ -1,0 +1,21 @@
+Title: LA SEGUNDA GUERRA MUNDIAL | Especiales
+
+URL Source: https://www.elmundo.es/especiales/2009/09/internacional/segunda_guerra_mundial/atrocidades/index.html
+
+Markdown Content:
+Primero fueron marcados, después separados del resto del mundo, después de sus familias y posesiones, después asesinados... Adolf Hitler y su convicción lunática de que existía una raza superior dio lugar al acto más vergonzoso y más doloroso de la II Guerra Mundial —si es que hay alguno que no lo fuera— y probablemente de todo el siglo XX: el Holocausto, o como el Parlamento israelí lo denomina desde 1951, **Shoah, el asesinato de seis millones de judíos y más de cinco millones de gitanos, discapacitados y homosexuales**.
+
+Los 'no arios' sufrieron desde 1933, con la llegada el Partido Nazi al poder , todo tipo de aberraciones. Desde la quema de libros hasta leyes antijudías. Sin embargo, fueron **las Leyes de Nüremberg** las que dilucidaron lo que años después sería el genocidio judío, pues definieron a los judíos por sangre y ordenaron la separación total de los 'arios' y los 'no arios'. Se abrió la puerta para que Hitler y sus colaboradores sembraran la cosecha de la exterminación.
+
+Desde el principio, Hitler tuvo un único objetivo: los enemigos de esa raza aria con la que soñaba. Y los judíos eran los primeros en la lista. Antes de los campos de exterminio, Hitler arrebató toda dignidad a los judíos. Se crearon los guetos. Los distritos urbanos en los que los nazis aislaron a los judíos en condiciones miserables para mantenerlos controlados y segregados. Con la implementación en 1942 de la llamada **'Solución Final'**, los alemanes acabaron con los guetos y con los judíos que aún permanecían en ellos para llenar vagones y vagones de trenes directos a la muerte que les esperaba en los campos de concentración.
+
+En 1941, cuando Alemania invadió Rusia, las SS, la guardia exclusiva de la Alemania nazi, se encargaron de la matanza indiscriminada de judíos. Pero, los fusilamientos y la cámara de gas les parecieron poco efectivos. El odio por el pueblo hebreo era tan exacerbado que los nazis querían más. Querían más judíos muertos. Más exterminio. Tres campos de concentración en Polonia —Belzec, Sobibor y Treblinka— fueron creados exclusivamente para llevar a cabo la operación que los nazis denominaron: 'Aktion Reinhard', la 'Solución Final'.
+
+Centenares de vagones llegaban a esos 'campos de la muerte', donde los miles de judíos que llegaban en masa como animales, con la esperanza de que su viaje acabara en un campo de trabajo en los que intentaran sobrevivir, eran asesinados por doquier en las cámaras de gas.  
+Pero fue en **Auschwitz** y en sus tres campos de concentración (I-II-III) y exterminio donde el terror, la muerte y el crimen se instalaron con más fuerza. Allí se levantaba **la 'Pared Negra'** donde las SS ejecutaron a miles de prisioneros; **el gas Zyklon B**, el arma secreta y cobarde de los nazis contra los judíos; y **los hornos crematorios** que durante años no dejaron de escupir las cenizas de los cuerpos de miles de judíos asesinados sin compasión.
+
+Fue en el campo de Auschwitz-Birkenau donde se probó por primera vez ese gas asesino que ha dejado en la retina de muchos y en el recuerdo de otros tantos, gracias al cine sobre todo, la imagen de centenares de mujeres, hombres y niños dentro de una sala, desnudos, temblorosos, asustados y muertos. Para noviembre de 1944, más de un millón de judíos y decenas de miles de rumanos, polacos y prisioneros de guerra soviéticos habían sido gaseados ahí.
+
+Los campos nazis de exterminio cumplieron la función exclusiva del asesinato en masa: tres millones de judíos fueron asesinados, fusilados o gaseados; otros tres millones murieron por enfermedad o en los campos de trabajo donde eran considerados animales sin ningún tipo de valor que podían acabar muertos por el capricho de un general loco o por pura diversión.
+
+Cuando los soldados rusos entraron en Auschwitz, sólo quedaban unos miles de supervivientes hambrientos y enfermos. Los nazis se habían encargado de ocultar la masacre que allí realizaron. Sin embargo, no ocultaron las pertenencias de los asesinados. En ese campo del horror encontraron **cientos de miles de trajes de hombre, miles de vestidos de mujeres y más de seis toneladas de cabellos humanos**. Llegaba la liberación, pero no el olvido.

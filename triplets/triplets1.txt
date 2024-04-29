@@ -1,0 +1,21 @@
+[
+    {"sujeto": "Erich von Manstein", "predicado": "fue el artífice de", "objeto": "la invasión de Francia"},
+    {"sujeto": "Erich von Manstein", "predicado": "fue encargado de", "objeto": "estabilizar el frente en 1943"},
+    {"sujeto": "Erich von Manstein", "predicado": "fue destituido tras", "objeto": "ordenar la ruptura de la bolsa de Korsun"},
+    {"sujeto": "Gerd von Rundstedt", "predicado": "dirigió", "objeto": "el grupo acorazado en Las Ardenas"},
+    {"sujeto": "Gerd von Rundstedt", "predicado": "fue relevado del mando por", "objeto": "insistir a Hitler que firmase la paz"},
+    {"sujeto": "Heinz Guderian", "predicado": "ideó", "objeto": "la Blitzkrieg"},
+    {"sujeto": "Erwin Rommel", "predicado": "recibió", "objeto": "la Pour Le Mérite"},
+    {"sujeto": "Bernard Montgomery", "predicado": "fue elegido comandante de", "objeto": "las Ratas del Desierto"},
+    {"sujeto": "Bernard Montgomery", "predicado": "venció a", "objeto": "Rommel en El Alamein"},
+    {"sujeto": "Hugh Dowding", "predicado": "fue responsable de", "objeto": "la victoria de la RAF en la Batalla de Inglaterra"},
+    {"sujeto": "Dwight Eisenhower", "predicado": "fue jefe supremo de", "objeto": "las fuerzas estadounidenses en Europa desde 1942"},
+    {"sujeto": "Dwight Eisenhower", "predicado": "gestionó", "objeto": "la operación 'Overlord'"},
+    {"sujeto": "Chester W. Nimitz", "predicado": "fue designado comandante en jefe de", "objeto": "la flota en el Pacífico después de Pearl Harbor"},
+    {"sujeto": "Chester W. Nimitz", "predicado": "recibió", "objeto": "la rendición formal nipona"},
+    {"sujeto": "George Patton", "predicado": "apresó al", "objeto": "Afrika Korps en el Norte de África"},
+    {"sujeto": "Georgi Zhukov", "predicado": "organizó", "objeto": "la defensa de Kursk en 1943"},
+    {"sujeto": "Ivan Koniev", "predicado": "participó en", "objeto": "la toma de Berlín"},
+    {"sujeto": "Isoroku Yamamoto", "predicado": "fue responsable de", "objeto": "el ataque a Pearl Harbor"},
+    {"sujeto": "Douglas MacArthur", "predicado": "prometió regresar a", "objeto": "Filipinas tras ser expulsado por los japoneses"}
+]

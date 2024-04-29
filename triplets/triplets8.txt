@@ -1,0 +1,15 @@
+[
+    {"sujeto": "Vassili Zaitsev", "predicado": "ejecutó", "objeto": "entre 150 y 250 alemanes"},
+    {"sujeto": "Günther Prien", "predicado": "hundió", "objeto": "HMS Royal Oak"},
+    {"sujeto": "Michael Wittman", "predicado": "destruyó", "objeto": "docenas de tanques T-34"},
+    {"sujeto": "Erich Hartmann", "predicado": "abatió", "objeto": "352 aviones"},
+    {"sujeto": "Richard Winters", "predicado": "tomó", "objeto": "varios cañones de 105 mm"},
+    {"sujeto": "Otto Skorzeny", "predicado": "liberó", "objeto": "a Mussolini"},
+    {"sujeto": "John Baskeyfield", "predicado": "destruyó", "objeto": "dos Tiger y un cañón autopropulsado"},
+    {"sujeto": "Hiroo Onoda", "predicado": "luchó", "objeto": "en la isla filipina de Lubang"},
+    {"sujeto": "David Niven", "predicado": "introdujo", "objeto": "a Sir Robert Edward Laycock en los comandos"},
+    {"sujeto": "Yakov Pavlov", "predicado": "tomó y defendió", "objeto": "edificios de viviendas en Stalingrado"},
+    {"sujeto": "Juan Pujol García", "predicado": "convenció", "objeto": "a Hitler de que el desembarco sería en Calais"},
+    {"sujeto": "Gunther Lutjens", "predicado": "dirigió", "objeto": "el Bismarck en la batalla contra HMS Hood"},
+    {"sujeto": "Douglas Bader", "predicado": "consiguió", "objeto": "una treintena de victorias en la batalla de Inglaterra"}
+]

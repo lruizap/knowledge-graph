@@ -1,0 +1,16 @@
+[
+    {"sujeto": "El Escuadrón 731", "predicado": "estaba disfrazado como", "objeto": "planta de purificación de agua"},
+    {"sujeto": "El Escuadrón 731", "predicado": "llevó a cabo experimentos", "objeto": "entre 1937 y 1945"},
+    {"sujeto": "Shiro Ishii", "predicado": "convenció", "objeto": "al emperador Hiro Hito"},
+    {"sujeto": "Shiro Ishii", "predicado": "tenía fascinación por", "objeto": "la guerra bacteriológica"},
+    {"sujeto": "El Escuadrón 731", "predicado": "realizó", "objeto": "ensayos con bioarmas"},
+    {"sujeto": "Shiro Ishii", "predicado": "construyó", "objeto": "la sede del Escuadrón 731"},
+    {"sujeto": "El Escuadrón 731", "predicado": "incluía", "objeto": "quirófanos, crematorio y laboratorios"},
+    {"sujeto": "Shiro Ishii", "predicado": "coordino un programa de", "objeto": "investigación de armas biológicas"},
+    {"sujeto": "Operación 'Cerezos en flor por la noche'", "predicado": "planeaba", "objeto": "ataques kamikaze con bombas de bacterias"},
+    {"sujeto": "Enola Gay", "predicado": "lanzó bomba atómica", "objeto": "sobre Hiroshima"},
+    {"sujeto": "El Protocolo de Ginebra de 1925", "predicado": "prohibió", "objeto": "las armas biológicas"},
+    {"sujeto": "Tribunales de guerra de Tokio", "predicado": "no juzgaron", "objeto": "los crímenes del Escuadrón 731"},
+    {"sujeto": "URSS", "predicado": "procesó", "objeto": "a implicados del Escuadrón 731 en el proceso de Jabarovsk en 1949"},
+    {"sujeto": "Shiro Ishii", "predicado": "murió de", "objeto": "cáncer de garganta en 1959"}
+]

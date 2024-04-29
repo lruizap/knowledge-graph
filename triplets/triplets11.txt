@@ -1,0 +1,13 @@
+[
+    {"sujeto": "Los ejércitos hitlerianos", "predicado": "cruzaron", "objeto": "la frontera soviética"},
+    {"sujeto": "Stalin", "predicado": "firmó", "objeto": "un pacto de no agresión con el III Reich"},
+    {"sujeto": "NKVD", "predicado": "ejecutó", "objeto": "alrededor de 20,000 oficiales y civiles polacos"},
+    {"sujeto": "Moscú", "predicado": "responsabilizó", "objeto": "a la Alemania hitleriana por la matanza de Katyn"},
+    {"sujeto": "Mijail Gorbachov", "predicado": "reveló", "objeto": "la matanza de Katyn"},
+    {"sujeto": "Invasión soviética de Polonia", "predicado": "ocurrió", "objeto": "en septiembre de 1939"},
+    {"sujeto": "Lavrenti Beria", "predicado": "firmó una orden para ejecutar", "objeto": "a 25,700 polacos"},
+    {"sujeto": "Vasili Blojin", "predicado": "ejecutó personalmente", "objeto": "a 6,000 prisioneros"},
+    {"sujeto": "Tropas hitlerianas", "predicado": "hallaron", "objeto": "la primera fosa común de Katyn en 1943"},
+    {"sujeto": "Boris Yeltsin", "predicado": "entregó", "objeto": "documentos desclasificados a Polonia en 1992"},
+    {"sujeto": "Fiscalía militar rusa", "predicado": "concluyó", "objeto": "que Katyn no fue un acto de genocidio, sino un crimen militar ya prescrito"}
+]

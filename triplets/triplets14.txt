@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Alemania", "predicado": "invadió", "objeto": "Polonia"},
+    {"sujeto": "Alemania", "predicado": "no siguió", "objeto": "Plan Schlieffen de la Primera Guerra Mundial"},
+    {"sujeto": "Alemania", "predicado": "ejecutó", "objeto": "Plan Amarillo de Manstein"},
+    {"sujeto": "General Maurice Gamelin", "predicado": "impulsó", "objeto": "línea de fortalezas en la frontera gala"},
+    {"sujeto": "General Maurice Gamelin", "predicado": "fue destituido", "objeto": "19 de mayo"},
+    {"sujeto": "Grupo B del general Fedor Von Bock", "predicado": "atacó", "objeto": "Bélgica y Holanda"},
+    {"sujeto": "Grupo A de Von Rundstedt", "predicado": "penetró", "objeto": "por los bosques de Las Ardenas"},
+    {"sujeto": "Aliados", "predicado": "se movilizaron", "objeto": "hacia Bélgica y Holanda"},
+    {"sujeto": "Aliados", "predicado": "lograron", "objeto": "retirada de 338.000 efectivos en Dunkerque"},
+    {"sujeto": "Francia", "predicado": "fue ocupada", "objeto": "en apenas un mes"}
+]

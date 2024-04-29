@@ -1,0 +1,15 @@
+[
+    {"sujeto": "Enola Gay", "predicado": "lanzó", "objeto": "Little Boy sobre Hiroshima"},
+    {"sujeto": "Little Boy", "predicado": "era", "objeto": "una bomba de uranio de 60 kilos"},
+    {"sujeto": "Little Boy", "predicado": "tenía", "objeto": "un potencial destructivo de 13 quilotones"},
+    {"sujeto": "Hiroshima", "predicado": "sufrió", "objeto": "la primera detonación nuclear de la Historia"},
+    {"sujeto": "víctimas de Hiroshima", "predicado": "murieron", "objeto": "aproximadamente 80,000 personas de forma inmediata"},
+    {"sujeto": "víctimas de Hiroshima", "predicado": "fallecieron posteriormente", "objeto": "entre 50,000 y 100,000 personas"},
+    {"sujeto": "bombardeo sobre Nagasaki", "predicado": "causó", "objeto": "la muerte de cerca de 100,000 personas"},
+    {"sujeto": "Fat Boy", "predicado": "era", "objeto": "una bomba de plutonio"},
+    {"sujeto": "Fat Boy", "predicado": "tenía", "objeto": "un potencial de 21 kilotones"},
+    {"sujeto": "Japón", "predicado": "se rindió", "objeto": "tras la detonación sobre Nagasaki"},
+    {"sujeto": "Estados Unidos", "predicado": "ocuparon", "objeto": "Japón con 350,000 soldados"},
+    {"sujeto": "Albert Camus y Albert Einstein", "predicado": "denunciaron", "objeto": "el bombardeo como un acto inmoral"},
+    {"sujeto": "Howard Zinn", "predicado": "criticó", "objeto": "la necesidad del bombardeo sobre Japón"}
+]

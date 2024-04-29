@@ -1,0 +1,22 @@
+[
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "dejó", "objeto": "40 a 50 millones de muertos"},
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "resultó en", "objeto": "doble o triple de heridos"},
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "causó", "objeto": "50 millones de desplazados forzosos"},
+    {"sujeto": "URSS", "predicado": "sufrió", "objeto": "unos 20 millones de muertos"},
+    {"sujeto": "Alemania", "predicado": "sufrió", "objeto": "entre cinco y siete millones de muertos"},
+    {"sujeto": "Polonia", "predicado": "sufrió", "objeto": "cerca de seis millones de muertos"},
+    {"sujeto": "URSS", "predicado": "padeció", "objeto": "entre 10 y 15 millones de deportaciones"},
+    {"sujeto": "Alemania", "predicado": "padeció", "objeto": "entre 10 y 15 millones de deportaciones"},
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "causó", "objeto": "pérdidas económicas de un billón y medio de dólares"},
+    {"sujeto": "Alemania", "predicado": "redujo", "objeto": "su producción industrial y agrícola al 30% de niveles de 1939"},
+    {"sujeto": "Europa", "predicado": "redujo", "objeto": "su producción industrial y agrícola al 40% o 50% de niveles de 1939"},
+    {"sujeto": "EEUU", "predicado": "se convirtió en", "objeto": "superpotencia hegemónica"},
+    {"sujeto": "Bretton Woods", "predicado": "convirtió", "objeto": "al dólar en la moneda de reserva internacional"},
+    {"sujeto": "EEUU", "predicado": "dominó", "objeto": "Fondo Monetario Internacional y Banco Mundial"},
+    {"sujeto": "EEUU", "predicado": "aumentó", "objeto": "su flota mercante a dos tercios de la flota mundial en 1945"},
+    {"sujeto": "Japón", "predicado": "facilitó", "objeto": "entrada de EEUU en la Segunda Guerra Mundial con el ataque a Pearl Harbor"},
+    {"sujeto": "La Segunda Guerra Mundial", "predicado": "inicio con", "objeto": "el ataque alemán a Polonia el 1 de septiembre de 1939"},
+    {"sujeto": "Versalles", "predicado": "facilitó", "objeto": "ascenso de Hitler al poder"},
+    {"sujeto": "Versalles", "predicado": "promovió", "objeto": "expansionismo agresivo nazi"},
+    {"sujeto": "Naciones Unidas", "predicado": "reservó", "objeto": "derecho de veto para los vencedores"}
+]

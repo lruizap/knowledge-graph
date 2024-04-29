@@ -1,0 +1,14 @@
+[
+    {"sujeto": "Alemania Nazi", "predicado": "inició", "objeto": "el conflicto más cruento de la Historia"},
+    {"sujeto": "Alemania", "predicado": "cruzó la frontera de", "objeto": "Polonia"},
+    {"sujeto": "Alemania", "predicado": "sitió", "objeto": "Varsovia"},
+    {"sujeto": "Hitler", "predicado": "anexionó", "objeto": "Austria"},
+    {"sujeto": "la República de Weimar", "predicado": "no pudo neutralizar", "objeto": "la crisis económica de 1929"},
+    {"sujeto": "Alemania Nazi", "predicado": "usó la excusa de", "objeto": "ataque a una emisora de radio alemana para invadir Polonia"},
+    {"sujeto": "URSS", "predicado": "firmó un acuerdo de no agresión con", "objeto": "Berlín"},
+    {"sujeto": "URSS", "predicado": "entró", "objeto": "por la parte oriental de Polonia"},
+    {"sujeto": "Stalin", "predicado": "cambió de lado cuando", "objeto": "Hitler invadió sus dominios"},
+    {"sujeto": "Gobierno polaco", "predicado": "se exilió en", "objeto": "Rumanía"},
+    {"sujeto": "movimiento de resistencia polaco", "predicado": "apoyó a", "objeto": "los Aliados"},
+    {"sujeto": "Auschwitz-Birkenau", "predicado": "fue uno de los campos de concentración", "objeto": "en el que murieron tres millones de personas"}
+]

@@ -1,0 +1,15 @@
+[
+    {"sujeto": "La MG42", "predicado": "es utilizada por", "objeto": "los ejércitos de la OTAN"},
+    {"sujeto": "La MG42", "predicado": "puede efectuar disparos por minuto", "objeto": "entre 1200 y 1800"},
+    {"sujeto": "El PPSh-41", "predicado": "fue producido en", "objeto": "la Unión Soviética"},
+    {"sujeto": "El MP40", "predicado": "era utilizado por", "objeto": "el ejército alemán"},
+    {"sujeto": "Estados Unidos", "predicado": "desarrolló", "objeto": "el bazooka"},
+    {"sujeto": "Alemania", "predicado": "inventó", "objeto": "el panzerfaust"},
+    {"sujeto": "Los SdKfz", "predicado": "eran utilizados por", "objeto": "cuerpos de ingenieros y telecomunicaciones"},
+    {"sujeto": "El T-34", "predicado": "fue clave en", "objeto": "la defensa rusa"},
+    {"sujeto": "El tanque T-34", "predicado": "requirió la ampliación de su cañón a", "objeto": "85 mm desde 1943"},
+    {"sujeto": "Alemania", "predicado": "comenzó a producir", "objeto": "los blindados pesados Tiger y Panther desde 1942"},
+    {"sujeto": "La penicilina", "predicado": "fue utilizada en", "objeto": "todos los frentes de los Aliados"},
+    {"sujeto": "El cóctel Molotov", "predicado": "fue utilizado en", "objeto": "la Guerra Civil española y sigue vigente en guerras de guerrillas"},
+    {"sujeto": "Los Katiushas", "predicado": "provocaron el pánico de", "objeto": "las tropas del Eje"}
+]
