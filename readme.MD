@@ -1,4 +1,36 @@
-# Proyecto 8: Alimentando el conocimiento de un LLM
+# Knowledge Graph Builder
+
+Este proyecto consiste en un conjunto de scripts diseñados para construir un grafo de conocimiento a partir de datos obtenidos de la web y luego interactuar con este grafo para responder preguntas.
+
+## Estructura del Proyecto
+
+El proyecto consta de tres scripts principales:
+
+### 1. Scrapping
+
+Este script se encarga de obtener enlaces relevantes de una página web dada y descargar el contenido de estos enlaces para su posterior procesamiento. A continuación, se almacena una lista de estos enlaces en un archivo de texto (`linksJina.txt`) y se guardan los contenidos descargados en archivos Markdown dentro de la carpeta `responses`.
+
+### 2. Triplets
+
+El script `triplets` procesa los archivos descargados en la fase de scrapping para extraer triplets de conocimiento. Un triplet de conocimiento es una estructura compuesta por tres elementos: sujeto, predicado y objeto. Estos triplets se guardan en archivos de texto dentro de la carpeta `triplets`.
+
+### 3. Knowledge Graph
+
+Finalmente, el script `knowledgegraph` construye un grafo de conocimiento a partir de los triplets generados en la fase anterior. Luego, se utiliza este grafo para responder preguntas de usuario sobre el tema tratado en los contenidos obtenidos.
+
+## Ejecución del Proyecto
+
+Para ejecutar el proyecto, sigue estos pasos:
+
+1. Ejecuta el script `scrapping.py` para obtener los enlaces y descargar los contenidos.
+2. Una vez completado el scrapping, ejecuta el script `triplets.py` para procesar los contenidos y generar los triplets de conocimiento.
+3. Por último, ejecuta el script `knowledgegraph.py` para construir el grafo de conocimiento y realizar consultas sobre el tema.
+
+Asegúrate de tener instaladas todas las dependencias necesarias, como `requests`, `beautifulsoup4`, `networkx`, `matplotlib`, entre otras. Puedes instalar estas dependencias utilizando `pip`.
+
+---
+
+## Proyecto 8: Alimentando el conocimiento de un LLM
 
 ## Fundamentos teóricos
 
